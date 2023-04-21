@@ -1,0 +1,4 @@
+name: 'container'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
